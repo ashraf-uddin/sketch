@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 25px;
+}
+
+.container {
+    width: 800px;
+    height: 800px;
+    margin: 0 auto 75px auto;
+    background-color: #ffeecc;
+}
+
+.userSettings {
+    width: 800px;
+    margin: 0 auto 30px auto;
+    background-color: #eeffff;
+}
+
+#clear {
+    margin-right: 5px;
+}
+
+#chooseColor {
+    float: right;
+    padding: 1px 1px 1px 1px;
+    margin-left: 10px;
+}
+
+#odin {
+    float: right;
+}
+
+td {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #000000;
+    background-color: #ffffff;
+}
